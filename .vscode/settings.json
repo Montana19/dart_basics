@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "montana",
+        "projectKey": "Montana19_dart_basics"
+    }
+}
